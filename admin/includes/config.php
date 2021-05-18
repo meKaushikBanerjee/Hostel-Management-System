@@ -1,7 +1,7 @@
 <?php
-$dbuser="4dcmS7Vwcn";
-$dbpass="tTUeS3RBMl";
+$dbuser="4eCGr7i2Ph";
+$dbpass="sJ3UHIWifC";
 $host="remotemysql.com";
-$db="4dcmS7Vwcn";
+$db="4eCGr7i2Ph";
 $mysqli =new mysqli($host,$dbuser, $dbpass, $db);
 ?>
